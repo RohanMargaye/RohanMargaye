@@ -1,6 +1,6 @@
 # 👋 Hi there, I’m Rohan Margaye (@RohanMargaye)
 
-🎓 MCA Graduate | 📊 Aspiring Data Analyst | ⚙️ Self-Taught Tech Explorer
+🎓 MCA Graduate | 📊 Aspiring Data/Business Analyst | ⚙️ Self-Taught Tech Explorer
 
 ---
 
@@ -10,12 +10,8 @@
   - PostgreSQL for real-world databases
   - Power BI & Advanced Excel for reporting and dashboards
   - Prompt Engineering & AI tools for automation
-- 💼 I’ve created beginner-level projects including:
-  - Performance Marketing Analysis
-  - Zoho Analytics Dashboards
-  - Inventory Management with PostgreSQL
-  - Excel-based Attendance Tracker
-- 💞️ I’m looking to collaborate on open-source data projects, beginner-friendly analysis tasks, or anything AI + data!
+- 💼 I’ve created beginner-level projects
+- 💞️ I’m looking to collaborate on open-source data projects, beginner-friendly analysis tasks, or anything + data!
 - 📫 How to reach me: **[rohanmargaye21@gmail.com](mailto:rohanmargaye21@gmail.com)**  
 - 🌐 Portfolio: *(Coming soon)*  
 - 😄 Pronouns: He/Him  
